@@ -1,6 +1,3 @@
-﻿# ipp-ecosystem
- // Root README.md (included in the repo root)
-
 # IPP Ecosystem - Interactive Software Stack Visualizations
 
 This repository includes interactive infographic visualizations of the software stack used by **Equilibrium Energy**, implemented in two technologies:
