@@ -1,5 +1,7 @@
 # IPP Ecosystem - Interactive Software Stack Visualizations
 
+https://hiring.ben.church/?utm_source=chatgpt.com
+
 This repository includes interactive infographic visualizations of the software stack used by **Equilibrium Energy**, implemented in two technologies:
 
 - [`react-flow/`](./react-flow) - Built with React Flow
