@@ -2,6 +2,10 @@
 
 This repository contains interactive diagramming tools to visualize software stacks and system architecture for **Equilibrium Energy** and similar Independent Power Producers (IPPs).
 
+https://hiring.ben.church/?utm_source=chatgpt.com
+
+This repository specifically includes interactive infographic visualizations of the software stack used by **Equilibrium Energy**, implemented in two technologies:
+
 Built with:
 
 - ⚡ React + Vite
